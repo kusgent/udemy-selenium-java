@@ -2,6 +2,21 @@ package mypackage;
 
 public class Car {
 
+    public Car() {
+        System.out.println("New car created!");
+    }
+
+    public Car(String color) {
+        this.color = color;
+    }
+
+    public Car(String color, int height, int width, int length) {
+        this.color = color;
+        this.height = height;
+        this.width = width;
+        this.length = length;
+    }
+
     int height;
     int width;
     int length;
