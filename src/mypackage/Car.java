@@ -2,6 +2,11 @@ package mypackage;
 
 public class Car {
 
+    final static int var = 10;
+    static void method() {
+        System.out.println("Static method.");
+    }
+
     public Car() {
         System.out.println("New car created!");
     }
