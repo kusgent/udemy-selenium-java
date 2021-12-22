@@ -1,4 +1,4 @@
-package mypackage;
+package mypackage.ClassesAndObjects;
 
 public class Car {
 

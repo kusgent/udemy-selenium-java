@@ -1,6 +1,6 @@
-package mypackage;
+package mypackage.ClassesAndObjects;
 
-public class ClassesAndObjects {
+public class TestClass {
 
     public static void main(String[] args) {
 
