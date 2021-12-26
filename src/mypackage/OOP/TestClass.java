@@ -1,4 +1,4 @@
-package mypackage.OOPInheritance;
+package mypackage.OOP;
 
 public class TestClass {
 
@@ -21,6 +21,12 @@ public class TestClass {
 
         System.out.println("Cat name is " + cat.name);
         System.out.println("Dog name is " + dog.name);
+
+        System.out.println();
+
+        dog.var = 11;
+
+        System.out.println(dog.getWeight());
 
     }
 

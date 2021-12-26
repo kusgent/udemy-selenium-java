@@ -1,4 +1,4 @@
-package mypackage.OOPInheritance;
+package mypackage.OOP;
 
 public class Cat extends Animals {
 
