@@ -28,6 +28,11 @@ public class TestClass {
 
         System.out.println(dog.getWeight());
 
+        System.out.println();
+
+        dog.sound();
+        cat.sound();
+
     }
 
 }
